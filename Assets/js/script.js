@@ -5,3 +5,4 @@ console.log(testIndex)
 var newImage = $("<img>").attr("class", "mainimage").attr("alt", "Portfoliopic").attr("src", random[testIndex]);
 console.log(newImage);
 $(".insertImage").append(newImage);
+$(".floatLeft").append(moment().format('ddd, MMM D'));
