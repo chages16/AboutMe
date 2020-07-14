@@ -1,7 +1,7 @@
 # About Me
 
 
-<img src="Assets/images/aboutme.jpg" width="500"  alt="Picture"/>
+<img src="Assets/Images/aboutme.JPG" width="500"  alt="Picture"/>
 
 
 * [About Me Website](https://github.com/AboutMe/)
